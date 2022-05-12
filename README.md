@@ -1,2 +1,2 @@
 # PhoneNumberTracker
- Can be track Phone number from which country and Sim provider company name.
+ It gets information through country code and outputs country name and carrier.
